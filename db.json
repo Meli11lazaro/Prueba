@@ -1,0 +1,25 @@
+[
+  {
+    "userId": 1,
+    "id": 2,
+    "Nombre": "Meliza",
+    "Apellido": "Lazaro",
+    "Email": "Lazaro@gmail.com",
+    "Telefono": "7731993519",
+    "Colonia": "San Pedro",
+    "Calle": "Av Tolteca",
+    "Ninte": "45",
+
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "Nombre": "Meliza",
+    "Apellido": "Lazaro",
+    "Email": "Lazaro@gmail.com",
+    "Telefono": "7731993519",
+    "Colonia": "San Pedro",
+    "Calle": "Av Tolteca",
+    "Ninte": "45",
+  }
+]
